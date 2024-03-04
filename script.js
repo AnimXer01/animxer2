@@ -16,7 +16,7 @@ var dataTitle;
 var dataEpisode;
 var dataURL;
 
-const apiEndpoint = "https://consumet-api-enzr.onrender.com";
+const apiEndpoint = "https://anime-api-phi.vercel.app";
 
 // Randomly set player iframes to these video onLoad
 var youtubeLinks = [
